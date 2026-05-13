@@ -15,3 +15,8 @@ This link is the official link for Mozilla Common Voice:
 Website:
 
 https://commonvoice.mozilla.org/
+## Original Repository for dataset
+
+The original repository for the dataset is:
+
+https://huggingface.co/datasets/MDFJ/mozilla-common-voice-apache/
