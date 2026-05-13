@@ -14,7 +14,7 @@ This link is the official link for Mozilla Common Voice:
 
 Website:
 
-https://commonvoice.mozilla.org/
+- [Website](https://commonvoice.mozilla.org/)
 
 # For the entire dataset (small parts are available on GitHub, an unofficial Mozilla repository)
 
