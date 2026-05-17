@@ -21,7 +21,7 @@
 
 # for FreeAI datasets:
 
-`pip install git + https://github.com/freeai-hub/datasets.git`
+`pip install git + https://github.com/freeai-hub/data.git`
 
 # We will update this documentation in future releases.
 
