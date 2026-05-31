@@ -1,0 +1,14 @@
+{
+  "name": "openwebtext",
+  "author": "openai-community",
+  "task": "Text Generation",
+  "license": "MIT",
+  "size_category": "100B<n<1T",
+  "tags": [
+    "text",
+    "language",
+    "pretraining"
+  ],
+  "platform": "Aiva AI Forge",
+  "created_at": "2026-05-31T22:02:01.950Z"
+}
